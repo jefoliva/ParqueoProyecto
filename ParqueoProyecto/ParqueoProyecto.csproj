@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AF938D23-9B49-4B82-84AB-80E377B94BC9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ParqueoProyecto</RootNamespace>
+    <AssemblyName>ParqueoProyecto</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\Documents\Visual Studio 2015\Projects\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\..\Documents\Visual Studio 2015\Projects\PruebaUI\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\..\..\Documents\Visual Studio 2015\Projects\PruebaUI\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\..\..\Documents\Visual Studio 2015\Projects\PruebaUI\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccesoDatos.cs" />
+    <Compile Include="Conexion.cs" />
+    <Compile Include="frmAcercaDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAcercaDe.Designer.cs">
+      <DependentUpon>frmAcercaDe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAgregarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgregarEmpleado.Designer.cs">
+      <DependentUpon>frmAgregarEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAgregarEspacio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgregarEspacio.Designer.cs">
+      <DependentUpon>frmAgregarEspacio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAgregarVehiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgregarVehiculo.Designer.cs">
+      <DependentUpon>frmAgregarVehiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEliminarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEliminarEmpleado.Designer.cs">
+      <DependentUpon>frmEliminarEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEliminarEspacio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEliminarEspacio.Designer.cs">
+      <DependentUpon>frmEliminarEspacio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEliminarVehiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEliminarVehiculo.Designer.cs">
+      <DependentUpon>frmEliminarVehiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPantallaInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPantallaInicio.Designer.cs">
+      <DependentUpon>frmPantallaInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRealizarPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRealizarPago.Designer.cs">
+      <DependentUpon>frmRealizarPago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSeleccionarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSeleccionarEmpleado.Designer.cs">
+      <DependentUpon>frmSeleccionarEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTarifas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTarifas.Designer.cs">
+      <DependentUpon>frmTarifas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTicket.Designer.cs">
+      <DependentUpon>frmTicket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerActivos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerActivos.Designer.cs">
+      <DependentUpon>frmVerActivos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerTicket.Designer.cs">
+      <DependentUpon>frmVerTicket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVerTiempo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerTiempo.Designer.cs">
+      <DependentUpon>frmVerTiempo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAcercaDe.resx">
+      <DependentUpon>frmAcercaDe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAgregarEmpleado.resx">
+      <DependentUpon>frmAgregarEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAgregarEspacio.resx">
+      <DependentUpon>frmAgregarEspacio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAgregarVehiculo.resx">
+      <DependentUpon>frmAgregarVehiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEliminarEmpleado.resx">
+      <DependentUpon>frmEliminarEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEliminarEspacio.resx">
+      <DependentUpon>frmEliminarEspacio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEliminarVehiculo.resx">
+      <DependentUpon>frmEliminarVehiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPantallaInicio.resx">
+      <DependentUpon>frmPantallaInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRealizarPago.resx">
+      <DependentUpon>frmRealizarPago.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSeleccionarEmpleado.resx">
+      <DependentUpon>frmSeleccionarEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTarifas.resx">
+      <DependentUpon>frmTarifas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTicket.resx">
+      <DependentUpon>frmTicket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerActivos.resx">
+      <DependentUpon>frmVerActivos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerTicket.resx">
+      <DependentUpon>frmVerTicket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerTiempo.resx">
+      <DependentUpon>frmVerTiempo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\activeSlot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\totalParkingSlot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoParking02.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,134 @@
+C:\Users\Usuario\Desktop\ParqueoProyecto\ParqueoProyecto\bin\Debug\ParqueoProyecto.exe.config
+C:\Users\Usuario\Desktop\ParqueoProyecto\ParqueoProyecto\bin\Debug\ParqueoProyecto.exe
+C:\Users\Usuario\Desktop\ParqueoProyecto\ParqueoProyecto\bin\Debug\ParqueoProyecto.pdb
+C:\Users\Usuario\Desktop\ParqueoProyecto\ParqueoProyecto\bin\Debug\MetroFramework.Design.dll
+C:\Users\Usuario\Desktop\ParqueoProyecto\ParqueoProyecto\bin\Debug\MetroFramework.dll
+C:\Users\Usuario\Desktop\ParqueoProyecto\ParqueoProyecto\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Usuario\Desktop\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmMain.resources
+C:\Users\Usuario\Desktop\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.Properties.Resources.resources
+C:\Users\Usuario\Desktop\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.exe
+C:\Users\Usuario\Desktop\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.pdb
+C:\Users\Usuario\Desktop\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmAgregarVehiculo.resources
+C:\Users\Usuario\Desktop\ParqueoProyecto - copia (2)\ParqueoProyecto\bin\Debug\ParqueoProyecto.exe.config
+C:\Users\Usuario\Desktop\ParqueoProyecto - copia (2)\ParqueoProyecto\obj\Debug\ParqueoProyecto.exe
+C:\Users\Usuario\Desktop\ParqueoProyecto - copia (2)\ParqueoProyecto\obj\Debug\ParqueoProyecto.pdb
+C:\Users\Usuario\Desktop\ParqueoProyecto - copia (2)\ParqueoProyecto\bin\Debug\ParqueoProyecto.exe
+C:\Users\Usuario\Desktop\ParqueoProyecto - copia (2)\ParqueoProyecto\bin\Debug\ParqueoProyecto.pdb
+C:\Users\Usuario\Desktop\ParqueoProyecto - copia (2)\ParqueoProyecto\bin\Debug\MetroFramework.Design.dll
+C:\Users\Usuario\Desktop\ParqueoProyecto - copia (2)\ParqueoProyecto\bin\Debug\MetroFramework.dll
+C:\Users\Usuario\Desktop\ParqueoProyecto - copia (2)\ParqueoProyecto\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Usuario\Desktop\ParqueoProyecto - copia (2)\ParqueoProyecto\obj\Debug\ParqueoProyecto.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\ParqueoProyecto - copia (2)\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmAgregarVehiculo.resources
+C:\Users\Usuario\Desktop\ParqueoProyecto - copia (2)\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmMain.resources
+C:\Users\Usuario\Desktop\ParqueoProyecto - copia (2)\ParqueoProyecto\obj\Debug\ParqueoProyecto.Properties.Resources.resources
+C:\Users\Usuario\Desktop\ParqueoProyecto - copia (2)\ParqueoProyecto\obj\Debug\ParqueoProyecto.csproj.GenerateResource.Cache
+C:\Users\DISEÑO\Desktop\Projecto\ParqueoProyecto\ParqueoProyecto\bin\Debug\ParqueoProyecto.exe.config
+C:\Users\DISEÑO\Desktop\Projecto\ParqueoProyecto\ParqueoProyecto\bin\Debug\ParqueoProyecto.exe
+C:\Users\DISEÑO\Desktop\Projecto\ParqueoProyecto\ParqueoProyecto\bin\Debug\ParqueoProyecto.pdb
+C:\Users\DISEÑO\Desktop\Projecto\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmAgregarVehiculo.resources
+C:\Users\DISEÑO\Desktop\Projecto\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmMain.resources
+C:\Users\DISEÑO\Desktop\Projecto\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.Properties.Resources.resources
+C:\Users\DISEÑO\Desktop\Projecto\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.csproj.GenerateResource.Cache
+C:\Users\DISEÑO\Desktop\Projecto\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.exe
+C:\Users\DISEÑO\Desktop\Projecto\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.pdb
+C:\Users\DISEÑO\Desktop\Projecto\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.csprojResolveAssemblyReference.cache
+C:\Users\DISEÑO\Desktop\Projecto\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmAcercaDe.resources
+C:\Users\DISEÑO\Desktop\ParqueoProyecto\ParqueoProyecto\bin\Debug\ParqueoProyecto.exe.config
+C:\Users\DISEÑO\Desktop\ParqueoProyecto\ParqueoProyecto\bin\Debug\ParqueoProyecto.exe
+C:\Users\DISEÑO\Desktop\ParqueoProyecto\ParqueoProyecto\bin\Debug\ParqueoProyecto.pdb
+C:\Users\DISEÑO\Desktop\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.csprojResolveAssemblyReference.cache
+C:\Users\DISEÑO\Desktop\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmAcercaDe.resources
+C:\Users\DISEÑO\Desktop\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmAgregarVehiculo.resources
+C:\Users\DISEÑO\Desktop\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmMain.resources
+C:\Users\DISEÑO\Desktop\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.Properties.Resources.resources
+C:\Users\DISEÑO\Desktop\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.csproj.GenerateResource.Cache
+C:\Users\DISEÑO\Desktop\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.exe
+C:\Users\DISEÑO\Desktop\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.pdb
+C:\Users\DISEÑO\Desktop\Projecto\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmEliminarVehiculo.resources
+C:\Users\DISEÑO\Desktop\Projecto\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmVerActivos.resources
+C:\Users\DISEÑO\Desktop\Projecto\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmAgregarEspacio.resources
+C:\Users\DISEÑO\Desktop\Projecto\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmEliminarEspacio.resources
+C:\Users\DISEÑO\Desktop\Projecto\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmTarifas.resources
+C:\Users\Usuario\Desktop\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmAcercaDe.resources
+C:\Users\Usuario\Desktop\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmAgregarEspacio.resources
+C:\Users\Usuario\Desktop\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmEliminarEspacio.resources
+C:\Users\Usuario\Desktop\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmEliminarVehiculo.resources
+C:\Users\Usuario\Desktop\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmTarifas.resources
+C:\Users\Usuario\Desktop\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmVerActivos.resources
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto1\ParqueoProyecto\bin\Debug\ParqueoProyecto.exe.config
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto1\ParqueoProyecto\obj\Debug\ParqueoProyecto.exe
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto1\ParqueoProyecto\obj\Debug\ParqueoProyecto.pdb
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto1\ParqueoProyecto\bin\Debug\ParqueoProyecto.exe
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto1\ParqueoProyecto\bin\Debug\ParqueoProyecto.pdb
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto1\ParqueoProyecto\obj\Debug\ParqueoProyecto.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto1\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmAcercaDe.resources
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto1\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmAgregarEspacio.resources
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto1\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmAgregarVehiculo.resources
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto1\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmEliminarEspacio.resources
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto1\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmEliminarVehiculo.resources
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto1\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmMain.resources
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto1\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmTarifas.resources
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto1\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmVerActivos.resources
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto1\ParqueoProyecto\obj\Debug\ParqueoProyecto.Properties.Resources.resources
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto1\ParqueoProyecto\obj\Debug\ParqueoProyecto.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmAcercaDe.resources
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmAgregarEspacio.resources
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmAgregarVehiculo.resources
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmEliminarEspacio.resources
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmEliminarVehiculo.resources
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmMain.resources
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmRealizarPago.resources
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmTarifas.resources
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmTicket.resources
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmVerActivos.resources
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmVerTicket.resources
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.Properties.Resources.resources
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto\ParqueoProyecto\bin\Debug\ParqueoProyecto.exe.config
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto\ParqueoProyecto\bin\Debug\ParqueoProyecto.exe
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto\ParqueoProyecto\bin\Debug\ParqueoProyecto.pdb
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto\ParqueoProyecto\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.exe
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.pdb
+C:\Users\DISEÑO\Desktop\Projecto\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmRealizarPago.resources
+C:\Users\DISEÑO\Desktop\Projecto\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmTicket.resources
+C:\Users\DISEÑO\Desktop\Projecto\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmVerTicket.resources
+C:\Users\DISEÑO\Desktop\Projecto\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmVerTiempo.resources
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmVerTiempo.resources
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmLogin.resources
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmPantallaInicio.resources
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmAgregarEmpleado.resources
+C:\Users\Usuario\Desktop\parqueo\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmEliminarEmpleado.resources
+C:\Users\DISEÑO\Desktop\Projecto\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmAgregarEmpleado.resources
+C:\Users\DISEÑO\Desktop\Projecto\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmEliminarEmpleado.resources
+C:\Users\DISEÑO\Desktop\Projecto\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmLogin.resources
+C:\Users\DISEÑO\Desktop\Projecto\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmPantallaInicio.resources
+C:\Users\DISEÑO\Desktop\Projecto\ParqueoProyecto\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmSeleccionarEmpleado.resources
+C:\Users\DISEÑO\Desktop\ParqueoProyectoVer2\ParqueoProyecto\bin\Debug\ParqueoProyecto.exe.config
+C:\Users\DISEÑO\Desktop\ParqueoProyectoVer2\ParqueoProyecto\bin\Debug\ParqueoProyecto.exe
+C:\Users\DISEÑO\Desktop\ParqueoProyectoVer2\ParqueoProyecto\bin\Debug\ParqueoProyecto.pdb
+C:\Users\DISEÑO\Desktop\ParqueoProyectoVer2\ParqueoProyecto\obj\Debug\ParqueoProyecto.csprojResolveAssemblyReference.cache
+C:\Users\DISEÑO\Desktop\ParqueoProyectoVer2\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmAcercaDe.resources
+C:\Users\DISEÑO\Desktop\ParqueoProyectoVer2\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmAgregarEmpleado.resources
+C:\Users\DISEÑO\Desktop\ParqueoProyectoVer2\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmAgregarEspacio.resources
+C:\Users\DISEÑO\Desktop\ParqueoProyectoVer2\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmAgregarVehiculo.resources
+C:\Users\DISEÑO\Desktop\ParqueoProyectoVer2\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmEliminarEmpleado.resources
+C:\Users\DISEÑO\Desktop\ParqueoProyectoVer2\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmEliminarEspacio.resources
+C:\Users\DISEÑO\Desktop\ParqueoProyectoVer2\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmEliminarVehiculo.resources
+C:\Users\DISEÑO\Desktop\ParqueoProyectoVer2\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmLogin.resources
+C:\Users\DISEÑO\Desktop\ParqueoProyectoVer2\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmMain.resources
+C:\Users\DISEÑO\Desktop\ParqueoProyectoVer2\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmPantallaInicio.resources
+C:\Users\DISEÑO\Desktop\ParqueoProyectoVer2\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmRealizarPago.resources
+C:\Users\DISEÑO\Desktop\ParqueoProyectoVer2\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmSeleccionarEmpleado.resources
+C:\Users\DISEÑO\Desktop\ParqueoProyectoVer2\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmTarifas.resources
+C:\Users\DISEÑO\Desktop\ParqueoProyectoVer2\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmTicket.resources
+C:\Users\DISEÑO\Desktop\ParqueoProyectoVer2\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmVerActivos.resources
+C:\Users\DISEÑO\Desktop\ParqueoProyectoVer2\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmVerTicket.resources
+C:\Users\DISEÑO\Desktop\ParqueoProyectoVer2\ParqueoProyecto\obj\Debug\ParqueoProyecto.frmVerTiempo.resources
+C:\Users\DISEÑO\Desktop\ParqueoProyectoVer2\ParqueoProyecto\obj\Debug\ParqueoProyecto.Properties.Resources.resources
+C:\Users\DISEÑO\Desktop\ParqueoProyectoVer2\ParqueoProyecto\obj\Debug\ParqueoProyecto.csproj.GenerateResource.Cache
+C:\Users\DISEÑO\Desktop\ParqueoProyectoVer2\ParqueoProyecto\obj\Debug\ParqueoProyecto.exe
+C:\Users\DISEÑO\Desktop\ParqueoProyectoVer2\ParqueoProyecto\obj\Debug\ParqueoProyecto.pdb
