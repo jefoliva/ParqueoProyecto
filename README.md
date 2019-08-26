@@ -14,7 +14,7 @@ Herramientas utilizadas:
 
 Provee información general sobre el programa: Hora, fecha, parqueos disponibles y ocupados e ingresos.
 
-!["Pantalla de Inicio"](Resources/001.JPG "Pantalla de Inicio")
+![](Resources/001.JPG "")
 
 También es posible modificar el tema de la aplicación
 
